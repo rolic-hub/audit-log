@@ -1,4 +1,4 @@
-# audit-log
+# Audit-Log
 A list of audits participated in with learnings, and lessons on web3 security
 
 ## Platform audit profiles 
