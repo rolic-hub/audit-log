@@ -2,8 +2,8 @@
 A list of audits participated in with learnings, and lessons on web3 security
 
 ## Summary Statistics
-- **Total Competitions**: 20
-- **Total Findings**: 42+
+- **Total Competitions**: 22
+- **Total Findings**: 50+
 - **Platforms**: Sherlock, Cantina, CodeHawks, Code4rena, Immunefi
 
 ---
@@ -17,12 +17,14 @@ A list of audits participated in with learnings, and lessons on web3 security
 |------|----------|----------|------|----------|------------------|
 | Nov '25 | Vechain \| Stargate Hayabusa | Immunefi | #56 | 1 | Finding not yet public |
 | Oct '25 | Index Fun Order Book | Sherlock | #11 | 2 | https://audits.sherlock.xyz/contests/1197 |
+| Sep '25 | GTE Perps and Launchpad| Code4rena | #24 | 6 | Findings not yet public |
 | Jul '25 | Attackathon \| Plume Network | Immunefi | #37 | 4 | Findings not yet public |
 | Jul '25 | succinct-network | Cantina | 🥉 | 1 | Finding not yet public |
 | May '25 | primev-validator-registry | Cantina | #6 | 1 | Finding not yet public |
 | Apr '25 | Burve | Sherlock | #20 | 3 | https://audits.sherlock.xyz/contests/858 |
 | Apr '25 | liquidity-book-vaults | Cantina | #28 | 3 | Findings not yet public |
 | Mar '25 | PinLink: RWA-Tokenized DePIN Marketplace | Sherlock | #22 | - | - |
+| Mar '25 | Silo Finance | Code4rena | #22 | 1 | https://code4rena.com/reports/2025-03-silo-finance |
 | Feb '25 | THORWallet | Code4rena | 🥉 | 1 | https://code4rena.com/reports/2025-02-thorwallet |
 | Feb '25 | Rova | Sherlock | 🥉 | 1 | https://audits.sherlock.xyz/contests/498 |
 | Jan '25 | reserve-index-dtf | Cantina | #8 | 1 | Finding not yet public |
